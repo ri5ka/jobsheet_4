@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
           color: Colors.pink, 
           child: Center(
             child: Text(
-              'Hello Riska Anggraeni Santoso',
+              'Hello Nofi Amalia',
               style: TextStyle(
                 fontSize: 24.0,
                 backgroundColor: Colors.pink, 
